@@ -5,7 +5,7 @@ date:   2017-04-07 22:27:00 +0200
 categories: challenge sthlm-betong
 ---
 
-Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm under våren. Det finns två tävlingområden; Betong och Sthlms län. 4 poäng för första obsen. 2 poäng för andra och 1 poäng för tredje obsen. Är det en kollektiv obs delas den poängen mellan observatörerna. Sunt förnuft gäller.
+Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm under våren. Det finns två tävlingsområden; Betong och Sthlms län. 4 poäng för första obsen. 2 poäng för andra och 1 poäng för tredje obsen. Är det en kollektiv obs delas den poängen mellan observatörerna. Sunt förnuft gäller.
 
 Senast updaterad: 2017-04-07 22:37
 
