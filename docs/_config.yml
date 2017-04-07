@@ -7,7 +7,7 @@
 
 # Site settings
 title: Stockholm Flapjackers
-email: paul.cohen@seibostudios.com
+email: paul.cohen at seibostudios.com
 description: > # this means to ignore newlines until "baseurl:"
   Vi är fyra urbana fågelskådare i Stockholm som ibland gör expeditioner utanför
   stadens gränser. Ibland till Årstafältet, ibland till Sandemar, ibland till
@@ -19,3 +19,5 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-tactile
