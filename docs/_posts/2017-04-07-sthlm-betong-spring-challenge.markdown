@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sthlm Betong Spring Challenge 2017"
-date:   2017-04-07 22:27:00 +0200
+date:   2017-04-12 07:59:00 +0200
 categories: challenge sthlm-betong
 ---
 
@@ -28,10 +28,10 @@ Senast updaterad: 2017-04-07 22:37
 | 8A  | Hussvala    | Sthlms län |            |        |        |            |
 | 8B  |    -"-      | Betong     |            |        |        |            |
 | 9A  | Fisktärna   | Sthlms län |            |        |        |            |
-| 9B  |    -"-      | Betong     |            |        |        |            |
+| 9B  |    -"-      | Betong     | 2,0        |        |        | 4,0        |
 | 10A | Näktergal   | Sthlms län |            |        |        |            |
 | 10B |    -"-      | Betong     |            |        |        |            |
 | === | =========== | ========== | ========== | ====== | ====== | ========== |
 | Totalt: |         | Sthlms län |  3,0       |  4,0   | 10,0   |  1,0       |
-|         |         | Betong     |  1,5       |  8,0   |  0,0   |  3,5       |
-|         |         |            |  4,5       | 12,0   | 10,0   |  4,5       |
+|         |         | Betong     |  3,5       |  8,0   |  0,0   |  7,5       |
+|         |         |            |  7,5       | 12,0   | 10,0   |  8,5       |
