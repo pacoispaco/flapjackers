@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sthlm Betong Spring Challenge 2017"
-date:   2017-04-12 07:59:00 +0200
+date:   2017-03-21 21:30:00 +0200
 categories: challenge sthlm-betong
 ---
 
 Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm under våren. Det finns två tävlingsområden; Betong och Sthlms län. 4 poäng för första obsen. 2 poäng för andra och 1 poäng för tredje obsen. Är det en kollektiv obs delas poängen mellan observatörerna. Sunt förnuft gäller.
 
-Senast updaterad: 2017-04-07 22:37
+Senast updaterad: 2017-04-12 08:04
 
 | Kod | Art         | Område     | Essopresso | Skutte | Olasan | Pacoispaco |
 | --- | ----------- | ---------- | ---------- | ------ | ------ | ---------- |
