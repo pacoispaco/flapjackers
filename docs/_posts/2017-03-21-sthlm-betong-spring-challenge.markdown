@@ -9,7 +9,7 @@ Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm un
 
 Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan båda områden, kan bara räknas till ett område. Observatören väljer själv. Det innebär att man måste ha två separata obsar (i tid och rum) för att få full pott på en art. Samvetet styr.
 
-Senast updaterad: 2017-04-12 08:04
+Senast updaterad: 2017-04-16 13:18
 
 | Kod | Art         | Område     | Essopresso | Skutte | Olasan | Pacoispaco |
 | --- | ----------- | ---------- | ---------- | ------ | ------ | ---------- |
