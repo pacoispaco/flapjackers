@@ -1,0 +1,10 @@
+/** Flapjackers special CSS stuf **/
+
+.challenge-table-class {
+  /**background: gray;**/
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+  th {color: darkblue; border-bottom: 2px solid #ddd; text-align: left;}
+  tr:nth-child(even) {background-color: #e2e2e2};
+}
