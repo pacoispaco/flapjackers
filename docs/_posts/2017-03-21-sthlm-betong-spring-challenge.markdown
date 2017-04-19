@@ -5,7 +5,7 @@ date:   2017-03-21 21:30:00 +0200
 categories: challenge sthlm-betong
 ---
 
-Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm under våren. Det finns två tävlingsområden; Betongen (enligt Sthlm Betongen) och Spenaten (resten av Stockholms län). 4 poäng för första obsen. 2 poäng för andra och 1 poäng för tredje obsen. Är det en kollektiv obs delas poängen mellan observatörerna. Sunt förnuft gäller.
+Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm under våren. Det finns två tävlingsområden; Betongen (enligt Sthlm Betong kriterier) och Spenaten (resten av Stockholms län). 4 poäng för första obsen. 2 poäng för andra och 1 poäng för tredje obsen. Är det en kollektiv obs delas poängen mellan observatörerna. Sunt förnuft gäller.
 
 Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan båda områden, kan bara räknas till ett område. Observatören väljer själv. Det innebär att man måste ha två separata obsar (i tid och rum) för att få full pott på en art. Samvetet styr.
 
