@@ -31,7 +31,7 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 | 8A  | Hussvala    | Sthlms län |            |        |        |            |
 | 8B  |    -"-      | Betong     |            |        |        |            |
 | 9A  | Fisktärna   | Sthlms län |            |        |        |            |
-| 9B  |    -"-      | Betong     | 2,0        |        | 1,0    | 4,0        |
+| 9B  |    -"-      | Betong     | 2,0        | 0,0    | 1,0    | 4,0        |
 | 10A | Näktergal   | Sthlms län |            |        |        |            |
 | 10B |    -"-      | Betong     |            |        |        |            |
 {: .challenge-table-class }
