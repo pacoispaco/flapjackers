@@ -9,7 +9,8 @@ Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm un
 
 Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan båda områden, kan bara räknas till ett område. Observatören väljer själv. Det innebär att man måste ha två separata obsar (i tid och rum) för att få full pott på en art. Samvetet styr.
 
-*Senast updaterad: **2017-04-16 13:18***
+*Senast uppdaterad: **2017-04-19 10:24***
+*Senaste uppdatering: Olasan 1,0 för Fisktärna i Betongen
 
 | Kod | Art         | Område     | Essopresso | Skutte | Olasan | Pacoispaco |
 | --- | ----------- | ---------- | ---------- | ------ | ------ | ---------- |
@@ -30,7 +31,7 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 | 8A  | Hussvala    | Sthlms län |            |        |        |            |
 | 8B  |    -"-      | Betong     |            |        |        |            |
 | 9A  | Fisktärna   | Sthlms län |            |        |        |            |
-| 9B  |    -"-      | Betong     | 2,0        |        |        | 4,0        |
+| 9B  |    -"-      | Betong     | 2,0        |        | 1,0    | 4,0        |
 | 10A | Näktergal   | Sthlms län |            |        |        |            |
 | 10B |    -"-      | Betong     |            |        |        |            |
 {: .challenge-table-class }
@@ -38,6 +39,6 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 | Totalt  |         |            | Essopresso | Skutte | Olasan | Pacoispaco |
 | ------- | ------- | ---------- | ---------- | ------ | ------ | ---------- |
 |         |         | Sthlms län |  4,5       |  5,5   | 10,0   |  1,0       |
-|         |         | Betong     |  3,5       |  8,0   |  0,0   |  7,5       |
-|         |         |            |  **9,0**   | **13,5** | **10,0** | **8,5**  |
+|         |         | Betong     |  3,5       |  8,0   |  1,0   |  7,5       |
+|         |         |            |  **9,0**   | **13,5** | **11,0** | **8,5**  |
 {: .challenge-table-class }
