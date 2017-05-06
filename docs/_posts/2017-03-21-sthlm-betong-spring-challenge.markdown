@@ -9,7 +9,7 @@ Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm un
 
 Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan båda områden, kan bara räknas till ett område. Observatören väljer själv. Det innebär att man måste ha två separata obsar (i tid och rum) för att få full pott på en art. Samvetet styr.
 
-*Senast* *uppdaterad:* **2017-04-19** **10:24**   
+*Senast* *uppdaterad:* **2017-05-06** **10:39**    
 *Senaste* *uppdatering:* **Olasan 1,0 för Fisktärna i Betongen**
 
 | Kod | Art         | Område   | Essopresso | Skutte | Olasan | Pacoispaco |
@@ -22,15 +22,15 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 | 3B  |    -"-      | Betongen |            |        |        |            |
 | 4A  | Sädesärla   | Spenaten | 1,0        | 4,0    | 2,0    | 0,0        |
 | 4B  |    -"-      | Betongen |            | 4,0    |        | 2,0        |
-| 5A  | Lövsångare  | Spenaten |            |        |        |            |
-| 5B  |    -"-      | Betongen |            |        |        |            |
-| 6A  | Sv flugsnappare  | Spenaten |            |        |        |            |
-| 6B  |    -"-           | Betongen |            |        |        |            |
-| 7A  | Ladusvala   | Spenaten |            |        |        |            |
+| 5A  | Lövsångare  | Spenaten |            | 4,0    |        |            |
+| 5B  |    -"-      | Betongen |            | 4,0    |        |            |
+| 6A  | Sv flugsnappare | Spenaten |        | 4,0    |        |            |
+| 6B  |    -"-          | Betongen |        |        | 4,0    |            |
+| 7A  | Ladusvala   | Spenaten | 2,0        | 1,0    | 4,0    | 0,0        |
 | 7B  |    -"-      | Betongen |            |        |        |            |
 | 8A  | Hussvala    | Spenaten |            |        |        |            |
 | 8B  |    -"-      | Betongen |            |        |        |            |
-| 9A  | Fisktärna   | Spenaten |            |        |        |            |
+| 9A  | Fisktärna   | Spenaten | 2,0        | 4,0    | 0,0    | 1,0        |
 | 9B  |    -"-      | Betongen | 2,0        | 0,0    | 1,0    | 4,0        |
 | 10A | Näktergal   | Spenaten |            |        |        |            |
 | 10B |    -"-      | Betongen |            |        |        |            |
@@ -38,7 +38,7 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 
 | Totalt  |         |          | Essopresso | Skutte | Olasan | Pacoispaco |
 | ------- | ------- | -------- | ---------- | ------ | ------ | ---------- |
-|         |         | Spenaten |  4,5       |  5,5   | 10,0   |  1,0       |
-|         |         | Betongen |  3,5       |  8,0   |  1,0   |  7,5       |
-|         |         |          |  **9,0**   | **13,5** | **11,0** | **8,5**  |
+|         |         | Spenaten |  8,5       | 17,5   | 14,0   |  1,0       |
+|         |         | Betongen |  3,5       | 12,0   |  5,0   |  7,5       |
+|         |         |          |  **12,0**  | **29,5** | **19,0** | **8,5**  |
 {: .challenge-table-class }
