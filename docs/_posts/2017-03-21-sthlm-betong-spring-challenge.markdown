@@ -26,7 +26,7 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 | 5B  |    -"-      | Betongen |            | 4,0    |        |            |
 | 6A  | Sv flugsnappare | Spenaten |        | 4,0    |        |            |
 | 6B  |    -"-          | Betongen |        |        | 4,0    |            |
-| 7A  | Ladusvala   | Spenaten | 4,0        | 1,0    | 2,0    | 0,0        |
+| 7A  | Ladusvala   | Spenaten | 4,0        |        | 2,0    |            |
 | 7B  |    -"-      | Betongen |            |        |        |            |
 | 8A  | Hussvala    | Spenaten |            |        |        |            |
 | 8B  |    -"-      | Betongen |            |        |        |            |
@@ -38,7 +38,7 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 
 | Totalt  |         |          | Essopresso | Skutte | Olasan | Pacoispaco |
 | ------- | ------- | -------- | ---------- | ------ | ------ | ---------- |
-|         |         | Spenaten | 10,5       | 17,5   | 12,0   |  1,0       |
+|         |         | Spenaten | 10,5       | 16,5   | 12,0   |  1,0       |
 |         |         | Betongen |  5,5       | 12,0   |  5,0   |  7,5       |
 |         |         |          |  **16,0**  | **29,5** | **17,0** | **8,5**  |
 {: .challenge-table-class }
