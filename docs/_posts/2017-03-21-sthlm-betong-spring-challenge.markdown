@@ -9,7 +9,7 @@ Sthlm Betong Spring Challenge handlar om att först obsa 10 arter i Stockholm un
 
 Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan båda områden, kan bara räknas till ett område. Observatören väljer själv. Det innebär att man måste ha två separata obsar (i tid och rum) för att få full pott på en art. Samvetet styr.
 
-*Senast* *uppdaterad:* **2017-05-08** **08:53**    
+*Senast* *uppdaterad:* **2017-05-19** **10:43**    
 *Senaste* *uppdatering:* **Rättat Jannes sädesärla och ladusvala**
 
 | Kod | Art         | Område   | Essopresso | Skutte | Olasan | Pacoispaco |
@@ -17,28 +17,28 @@ Förtydligande: En obs på områdesgränsen, som velar över gränsen mellan bå
 | 1A  | Silltrut    | Spenaten | 2,0        | 0,0    | 4,0    | 1,0        |
 | 1B  |    -"-      | Betongen | 1,5        | 4,0    | 0,0    | 1,5        |
 | 2A  | Gransångare | Spenaten | 1,5        | 1,5    | 4,0    | 0,0        |
-| 2B  |    -"-      | Betongen |            |        |        |            |
-| 3A  | Tornseglare | Spenaten |            |        |        |            |
-| 3B  |    -"-      | Betongen |            |        |        |            |
+| 2B  |    -"-      | Betongen |            | 4,0    |        |            |
+| 3A  | Tornseglare | Spenaten | 2,0        | 4,0    | 0,5    | 0,5        |
+| 3B  |    -"-      | Betongen |            | 4,0    |        | 2,0        |
 | 4A  | Sädesärla   | Spenaten | 1,0        | 4,0    | 2,0    | 0,0        |
-| 4B  |    -"-      | Betongen | 2.0        | 4,0    |        | 2,0        |
-| 5A  | Lövsångare  | Spenaten |            | 4,0    |        |            |
+| 4B  |    -"-      | Betongen | 1.0        | 4,0    | 0,0    | 2,0        |
+| 5A  | Lövsångare  | Spenaten | 4.0        | 4,0    |        |            |
 | 5B  |    -"-      | Betongen |            | 4,0    |        |            |
-| 6A  | Sv flugsnappare | Spenaten |        | 4,0    |        |            |
-| 6B  |    -"-          | Betongen |        |        | 4,0    |            |
-| 7A  | Ladusvala   | Spenaten | 4,0        |        | 2,0    |            |
+| 6A  | Sv flugsnappare | Spenaten |        | 4,0    | 2,0    |            |
+| 6B  |    -"-          | Betongen |        | 2,0    | 4,0    |            |
+| 7A  | Ladusvala   | Spenaten | 4,0        | 0,0    | 2,0    | 1,0        |
 | 7B  |    -"-      | Betongen |            |        |        |            |
 | 8A  | Hussvala    | Spenaten |            |        |        |            |
 | 8B  |    -"-      | Betongen |            |        |        |            |
 | 9A  | Fisktärna   | Spenaten | 2,0        | 4,0    | 0,0    | 1,0        |
 | 9B  |    -"-      | Betongen | 2,0        | 0,0    | 1,0    | 4,0        |
-| 10A | Näktergal   | Spenaten |            |        |        |            |
+| 10A | Näktergal   | Spenaten |            | 4,0    |        |            |
 | 10B |    -"-      | Betongen |            |        |        |            |
 {: .challenge-table-class }
 
 | Totalt  |         |          | Essopresso | Skutte | Olasan | Pacoispaco |
 | ------- | ------- | -------- | ---------- | ------ | ------ | ---------- |
-|         |         | Spenaten | 10,5       | 16,5   | 12,0   |  1,0       |
-|         |         | Betongen |  5,5       | 12,0   |  5,0   |  7,5       |
-|         |         |          |  **16,0**  | **29,5** | **17,0** | **8,5**  |
+|         |         | Spenaten | 16,5       | 25,5   | 14,5   |  3,5       |
+|         |         | Betongen |  4,5       | 22,0   |  5,0   |  9,5       |
+|         |         |          |  **21,0**  | **47,5** | **19,5** | **13,0**  |
 {: .challenge-table-class }
